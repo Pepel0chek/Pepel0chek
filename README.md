@@ -1,4 +1,4 @@
-<h1>                        🔥Pepel🔥<h1>
+<h1 align="center">🔥Pepel🔥</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
