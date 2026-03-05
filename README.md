@@ -15,3 +15,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg)
